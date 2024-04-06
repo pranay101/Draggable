@@ -1,0 +1,8 @@
+{
+  "name": "Draggable",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/pranay101/Draggable.git",
+  "author": "pranay101 <pranayprajapati101@gmail.com>",
+  "license": "MIT"
+}
